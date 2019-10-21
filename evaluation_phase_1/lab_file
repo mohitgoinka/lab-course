@@ -4,16 +4,17 @@ https://drive.google.com/open?id=1CSuWkGu12vko6VBclx31diRxzWrDUkQh
 
 CONCEPT USED:
 An arduino is a very useful microcontroller. Therefore, it can be programmed via the Arduino language Processing to turn the 
-LED on for a given interval of time and turn it off for a certain period of time. We can use it over and over again. To 
-control the amount of time the LED will be on and the amount of time it will be off can easily be decided by our software code 
-using the delay.
+LED on for a given interval of time and turn it off for a certain period of time. We can alse use ultrasonic sensors as well.
+We can use it over and over again. To control the amount of time the LED will be on and the amount of time it will be off can 
+easily be decided by our software code using the delay.
 
 LEARNING AND OBSERVATION:
 We learn that we can use aurduino to control several LEDs at once, and we can generate many patterns using the IDE. We observe 
-that, as the code suggests, aurduino blinks the LED, that is, 500 ms off and 500 ms on.
+that, as the code suggests, aurduino blinks the LED when the washing machine is filled with water, and the red LED turns on, 
+when the washing machine is empty, that is, 20 ms off and 20 ms on.
 
 PROBLEMS AND TROUBLESHOOTING:
-No problem faced while performing the experiment. Worked well, as the task was an easy one.
+No problem faced while performing the experiment. Worked well, and didn't face any problem.
 
 PRECAUTIONS:
 1) Make sure all the connections are tight.
@@ -21,7 +22,7 @@ PRECAUTIONS:
 3) Make sure to use resistors, otherwise it may harm the LED.
 
 LEARNING OUTCOMES:
-After performing this experiment, I am comfortable with the basic hardware and software aspects of Arduino.
+After performing this experiment, I am comfortable with the some basic hardware and software aspects of Arduino.
 
 NOTE:
 Circuit diagram is as another file.
