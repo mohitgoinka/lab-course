@@ -1,3 +1,5 @@
+//we place the arduino circuit on the top of the washing machine, such that the ultrasonic sensor's trigger and receiver 
+//faces the washing tub of the washing machine. 
 int trig=5,echo=6;
 void setup() {
   // put your setup code here, to run once:
