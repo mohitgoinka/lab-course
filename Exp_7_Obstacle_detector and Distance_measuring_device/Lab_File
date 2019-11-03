@@ -1,0 +1,45 @@
+CIRCUIT DIAGRAM:
+
+Uploaded as a different file.
+
+
+CONCEPT USED:
+
+1)By using kirchoff’s voltage law.
+2)By using kirchoff’s current law.
+3)Series and parallel connections.
+
+
+LEARNING AND OBSERVATIONS: 
+
+1)Connections in Breadboard and wiring. 
+2)How to control arduino and its coding. 
+3)Use of multimeter for continuity.
+
+
+OBSERVATION: 
+
+1)Blinking of leds in a pattern and in dual chasing form. 
+2)Relation between software and hardware.
+
+
+PROBLEMS & TROUBLESHOOTING: 
+
+1)To select the right port and type of arduino.
+2)To check the loose connections. 
+3)To check the connections according to the codes.
+4)To check the continuity of the circuit.
+5)To check the flow of current in the circuit. 
+
+
+PRECAUTIONS: 
+
+1)Handle tools carefully.
+2)Wear gloves.
+3)Do not connect arduino till the circuit is complete.
+
+ 
+OUTCOMES:
+
+1)It is used in transparent wireless serial connection.
+2)It is designed to replace serial  connections.
