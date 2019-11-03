@@ -1,19 +1,19 @@
-int sensorpin=A0;
-int ledpin=13;
-int sensorvalue=0;
+int sp=A0;
+int lp=13;
+int sv=0;
 void setup()
 {
   Serial.begin(9600);
-  pinMode(ledpin,OUTPUT);
+  pinMode(lp,OUTPUT);
 }
 void loop()
 {
-  sensorvalue=analogRead(sensorpin);
-  Serial.println(sensorvalue);
+  sensorvalue=analogRead(sp);
+  Serial.println(sv);
  delay(100);
   if(sensorvalue>300)
-    digitalWrite(ledpin,HIGH);
+    digitalWrite(lp,HIGH);
   else
-     digitalWrite(ledpin,LOW);
+     digitalWrite(lp,LOW);
     
 }
